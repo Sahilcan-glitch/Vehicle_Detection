@@ -1,0 +1,6 @@
+# path: ../Cars Detection
+# train: /content/drive/MyDrive/Car_dataset/Cars Detection/train
+# val: /content/drive/MyDrive/Car_dataset/Cars Detection/valid
+
+nc: 5
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
