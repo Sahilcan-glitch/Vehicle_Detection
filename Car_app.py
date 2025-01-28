@@ -74,7 +74,7 @@ st.markdown(
 )
 
 # YOLO Model Initialization
-model = YOLO("runs/best.pt")
+model = YOLO("best.pt")
 
 # File Uploader Section
 st.markdown("### Upload an Image to Get Started")
